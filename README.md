@@ -1,1 +1,1 @@
-"# example_illustrator_2018-1" 
+# example_illustrator_2018-1
